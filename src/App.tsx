@@ -60,7 +60,7 @@ const App = () => {
     <div className="App">
       <div className="logo-section">
         <img src="https://i.imgur.com/EerK7MS.png" alt="Logo 1" className="logo logo-big" />
-        <img src="https://i.imgur.com/xZGTAt5.png" alt="Logo 2" className="logo" />
+        <img src="https://i.imgur.com/ZgaBE0M.png" alt="Logo 2" className="logo" />
       </div>
       {!userInfo ? (
       <div className="login-section">
