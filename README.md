@@ -3,20 +3,20 @@
     <img src="https://i.imgur.com/xmdzXU4.png" />
   </a>
   <h3>
-    Particle Smart WaaS PGN Demo
+    Particle Network Smart Wallet-as-a-Service on PGN (Demo)
   </h3>
 </div>
 
-⚡️ ERC-4337 demo application showcasing utilization of Particle's Smart Wallet-as-a-Service facilitating full-stack account abstraction on PGN mainnet (handling social login via MPC-TSS, creating a smart account, and pushing a user operation).
+⚡️ Demo application showcasing utilization of Particle Network's Smart Wallet-as-a-Service ([Particle Auth Core](https://docs.particle.network/developers/auth-service/core/web) in this case) on PGN. This application facilitates social login and the execution of a sample (0.001 ETH) transaction.
 
-Built using **Particle Auth**, **TypeScript**, **Particle AA SDK**
+Built using **Particle Auth Core**, **TypeScript**, **Particle AA SDK**
 
-## 🔑 Particle Auth
-Particle Auth, a component of Particle Network's Wallet-as-a-Service, enables seamless onboarding to an application-embedded MPC-TSS/AA wallet facilitated by social login, such as Google, GitHub, email, phone number, etc.
+## 🔑 Particle Auth Core
+Particle Auth Core, a component of Particle Network's Wallet-as-a-Service, enables seamless onboarding to an application-embedded MPC-TSS/AA wallet facilitated by social login, such as Google, GitHub, email, phone number, etc. - as an alternative to Particle Auth, the Auth Core SDK comes with more control over the modal itself, application-embedded popups rather than redirects, and so on.
 
 ##
 
-👉 Try the demo: https://web-demo.particle.network
+👉 Try the demo: https://core-demo.particle.network
 
 👉 Learn more about Particle Network: https://particle.network
 
